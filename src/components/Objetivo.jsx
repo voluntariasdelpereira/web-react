@@ -7,7 +7,7 @@ export function Objetivo() {
         <>
             <Container>
                 <Card style={{ width: '100%' }}>
-                    <Card.Img variant="top" src="src/assets/objectivo.webp" />
+                    <Card.Img variant="top" src="https://raw.githubusercontent.com/voluntariasdelpereira/web-react/main/src/assets/objectivo.webp" />
                     <Card.Body>
                         <Card.Title >
                             Objetivo

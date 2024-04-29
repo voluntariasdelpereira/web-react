@@ -8,7 +8,7 @@ export function Colaboraciones() {
             <Container>
 
                 <Card style={{ width: '100%' }}>
-                    <Card.Img variant="top" src="src/assets/voluntarias2.webp" />
+                    <Card.Img variant="top" src="https://raw.githubusercontent.com/voluntariasdelpereira/web-react/main/src/assets/voluntarias2.webp" />
                     <Card.Body>
                         <Card.Title >
                             Colaboraciones

@@ -7,7 +7,7 @@ function Home() {
         <>
             <Container>
                 <Card style={{ width: '100%' }}>
-                    <Card.Img variant="top" src="src/assets/home3.webp" />
+                    <Card.Img variant="top" src="https://raw.githubusercontent.com/voluntariasdelpereira/web-react/main/src/assets/home3.webp" />
                     <Card.Body>
                         <Card.Title className="text-center">
                             Asociación Civil de Voluntarias de Ayuda a la Salud y al Centro Hospitalario Pereira Rossell

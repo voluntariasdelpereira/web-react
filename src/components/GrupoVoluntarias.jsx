@@ -8,7 +8,7 @@ export function GrupoVoluntarias() {
             <Container>
 
                 <Card style={{ width: '100%' }}>
-                    <Card.Img variant="top" src="src/assets/voluntarias.webp" />
+                    <Card.Img variant="top" src="https://raw.githubusercontent.com/voluntariasdelpereira/web-react/main/src/assets/voluntarias.webp" />
                     <Card.Body>
                         <Card.Title >
                             Grupo de Voluntarias
