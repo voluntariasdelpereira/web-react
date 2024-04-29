@@ -17,60 +17,60 @@ export function MyFotos() {
                         <img
                             src='src/assets/fotos01.webp'
                             className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Boat on Calm Water'
+                            alt='foto 1'
                         />
 
                         <img
                             src='src/assets/fotos02.webp'
                             className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Wintry Mountain Landscape'
+                            alt='foto 2'
                         />
 
-                        <img
-                            src='src/assets/fotos07.webp'
-                            className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Wintry Mountain Landscape'
-                        />
-                    </MDBCol>
-
-                    <MDBCol lg={4} className='mb-4 mb-lg-0'>
                         <img
                             src='src/assets/fotos03.webp'
                             className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Mountains in the Clouds'
+                            alt='foto 3'
                         />
-
-                        <img
-                            src='src/assets/fotos04.webp'
-                            className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Boat on Calm Water'
-                        />
-
-                        <img
-                            src='src/assets/fotos07.webp'
-                            className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Wintry Mountain Landscape'
-                        />
-
                     </MDBCol>
 
                     <MDBCol lg={4} className='mb-4 mb-lg-0'>
                         <img
+                            src='src/assets/fotos04.webp'
+                            className='w-100 shadow-1-strong rounded mb-4'
+                            alt='foto 4'
+                        />
+
+                        <img
                             src='src/assets/fotos05.webp'
                             className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Waves at Sea'
+                            alt='foto 5'
                         />
 
                         <img
                             src='src/assets/fotos06.webp'
                             className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Yosemite National Park'
+                            alt='foto 6'
+                        />
+
+                    </MDBCol>
+
+                    <MDBCol lg={4} className='mb-4 mb-lg-0'>
+                        <img
+                            src='src/assets/fotos07.webp'
+                            className='w-100 shadow-1-strong rounded mb-4'
+                            alt='foto 7'
                         />
 
                         <img
                             src='src/assets/fotos07.webp'
                             className='w-100 shadow-1-strong rounded mb-4'
-                            alt='Wintry Mountain Landscape'
+                            alt='foto 8'
+                        />
+
+                        <img
+                            src='src/assets/fotos07.webp'
+                            className='w-100 shadow-1-strong rounded mb-4'
+                            alt='foto 9'
                         />
                     </MDBCol>
                 </MDBRow>
