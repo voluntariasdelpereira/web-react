@@ -11,6 +11,7 @@ import {Eventos} from "./components/Eventos.jsx";
 import {MyFotos} from "./components/MyFotos.jsx";
 import {GrupoVoluntarias} from "./components/GrupoVoluntarias.jsx";
 import {Colaboraciones} from "./components/Colaboraciones.jsx";
+import {Footer} from "./components/Footer.jsx";
 
 const router = createBrowserRouter([
     {
@@ -41,10 +42,11 @@ const router = createBrowserRouter([
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+    <React.StrictMode>
 
-          <NavigationBar/>
-          <RouterProvider router={router} />
+        <NavigationBar/>
+        <RouterProvider router={router} />
+        <Footer/>
 
-  </React.StrictMode>,
+    </React.StrictMode>,
 )
